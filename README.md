@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Here is a README.md file formatted based on the content of the uploaded resume.<br><br>Hi there, I'm Akram Haque 👋<br>B.Tech Student (CSE-AI) | Machine Learning Enthusiast | Motivated Intern<br><br>Based in Jamshedpur, Jharkhand, India <br><br><br>📖 About Me<br>I am a motivated internship student with relevant experience in my field of study. I possess strong research skills, the ability to work well in team settings, and adaptability to new environments. I have a proven track record of contributing to project success and applying learned concepts in real-world scenarios.<br><br><br><br><br>Date of Birth: 10/28/04 <br><br><br>Languages: English (Elementary/A2), Hindi (Intermediate/B1) <br><br><br><br>🛠 Skills<br>Technical Skills:<br><br>Machine Learning <br><br>Python Programming <br><br>Computer Skills <br><br>Data Entry <br><br>Soft Skills & Management:<br><br>Leadership & Team Work <br><br>Project Management & Coordination <br><br><br>Creativity and Innovation <br><br>Effective Communication <br><br>💼 Experience<br>Internship Student | MyGov<br>Kolkata, India | 02/2025 - 03/2025 <br><br>Implemented strategies to take advantage of new opportunities.<br><br>Assessed company operations for compliance with safety standards.<br><br>Set specific goals for projects to measure progress and evaluate end results.<br><br>Internship Student | Microsoft<br>Kolkata | 02/2025 - 02/2025 <br><br>Maintained records of all activities related to various projects.<br><br>Worked well in team environments as well as independently.<br><br>Implemented strategies to take advantage of new opportunities.<br><br>🎓 Education<br>Bachelor of Technology: CSE-AI B.B.I.T, Budge Budge, Kolkata, West Bengal<br><br><br>Expected: 08/2027 <br><br>Activities:<br><br>Workshop: Application of AI & ML in Manufacturing Processes.<br><br>Seminar: International Collaboration with Kyungdong University Global, South Korea.<br><br>University Mentorship Program BBIT.<br><br>Pre-University / Intermediate Karim City College, Jamshedpur, Jharkhand<br><br><br>Completion: 07/2023 <br><br><br>GPA: 77.5% <br><br>High School St. Xaviers English School & Junior College, Chaibasa<br><br><br>Completion: 05/2021 <br><br><br>GPA: 93.0% <br><br>📫 Connect with Me<br><br>Phone: +91 9523693624 <br><br><br>Email: akramulhaque755@gmail.com
 
-<!--
-**akram-0809/akram-0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akram-0809&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akram-0809&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akram-0809&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=akram-0809&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
